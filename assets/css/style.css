@@ -64,7 +64,7 @@ p {
     font-size: 16px;
 }
 
-/*  */
+/* Adding  background image to figure and giving it size, margin, and positioning properties*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,26 +74,26 @@ p {
     background-position: center;
 }
 
-/*  */
+/* Floating images left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*  */
+/* Floating images right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/*  */
+/* Setting width, display, and margin properties for content in article */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*  */
+/* Setting properties to display benefits aside to the right of the page, with defined right margin, padding, width, height, and font. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,7 +105,7 @@ p {
     background-color: #2589bd;
 }
 
-/*  */
+/* Setting margin and color properties for sections within aside */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -113,7 +113,7 @@ p {
     color: #ffffff;
 }
 
-/*  */
+/* Setting bottom margin and alignment properties for benefits headings */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -121,7 +121,7 @@ p {
     text-align: center;
 }
 
-/*  */
+/* Setting display, margin, and width properties for benefits images */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -130,7 +130,7 @@ p {
     max-width: 150px;
 }
 
-/*  */
+/* Setting margins, padding, height, font, and color properties for sections within article */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -142,14 +142,14 @@ p {
     color: #ffffff;
 }
 
-/*  */
+/* Setting maximum height property for images */
 .search-engine-optimization img,
 .social-media-marketing img,
 .online-reputation-management img {
     max-height: 200px;
 }
 
-/*  */
+/* Setting margin and font properties for headings */
 .search-engine-optimization h2,
 .social-media-marketing h2,
 .online-reputation-management h2 {
@@ -157,7 +157,7 @@ p {
     font-size: 36px;
 }
 
-/* */
+/* Setting padding, clear, font, alignment properties to footer*/
 .footer {
     padding: 30px;
     clear: both;
@@ -165,7 +165,7 @@ p {
     text-align: center;
 }
 
-/*  */
+/* Setting font size for footer heading */
 .footer h2 {
     font-size: 20px;
 }
